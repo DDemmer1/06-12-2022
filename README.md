@@ -21,6 +21,11 @@ Programmiert eine Methode ```public void addMail(EMail mail)``` in der ```Outbox
 - Wenn das Postfach voll ist soll eine Meldung in der Konsole ausgegeben werden 
 
 
+-------------------------------
+
+Erweitert die Methode ```public void addMail(EMail mail)``` so das sich das ```EMail[] mails``` dynamisch vergrößert, wenn eine ```EMail``` nicht mehr in das  ```EMail[] mails```passt.
+
+
 
 
 
